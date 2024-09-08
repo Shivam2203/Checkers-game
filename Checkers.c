@@ -12,7 +12,7 @@ THE RULES ARE SIMPLE:
 7. IF YOU HAVE OPORTUNITY YOU MUST BEAT USING YOUR QUEEN
 
 THIS IS "CHECKERS",
-CREATED BY BARTOSZ
+CREATED BY Shivam Patel
 _________________________________________________________
 | #### |      | #### |      | #### |      | #### |      |
 |######|      |######|      |######|      |######|      |
